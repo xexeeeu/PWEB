@@ -1,0 +1,8 @@
+Fonte: Nunito
+
+<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600&display=swap" rel="stylesheet">
+CSS rules to specify families
+
+font-family: 'Nunito', sans-serif;
+
+Colors: #f9ca24 e #e4b306

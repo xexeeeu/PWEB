@@ -1,0 +1,30 @@
+Fonte: Nunito
+
+<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600&display=swap" rel="stylesheet">
+CSS rules to specify families
+
+font-family: 'Nunito', sans-serif;
+
+Cores: #3498db e #2980b9
+
+Navegação:
+- Logo;
+- Navegação: Home, Sobre, Contato;
+
+Home:
+
+- "OLÁ, MEU NOME É FELIPE! BEM VINDOS AO MEU PORTFOLIO";
+- Botões: "Saiba mais" e "Me siga no insta";
+
+
+
+Footer:
+
+- Logo;
+- Redes sociais, ícones;
+- Informações adicionais:
+
+Av. Eng. Carlos Reinaldo Mendes, 2015
+CEP - 18013-280
+FATEC Sorocaba
+*Este é um projeto acadêmico desenvolvido para fins de estudo e aprendizado. Os direitos autorais das imagens aqui postadas pertencem aos seus respectivos donos
